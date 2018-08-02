@@ -1,5 +1,6 @@
 
 * Heteroskedasticity
+* David Li 
 
 * Importing the data 
 use xxx, clear
