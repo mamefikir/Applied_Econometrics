@@ -1,5 +1,6 @@
 
 * Regression with Panel Data
+* David Li 
 
 * Importing Data
 use xxx, clear
