@@ -1,4 +1,5 @@
 * The Multiple Regression Model 
+* David Li 
 
 * 90% confidence intervals
 regress variable1 variable2 variable3, level(90)
