@@ -1,4 +1,5 @@
 * Error Correlation Model (Checking Cointegration)
+* David Li
 gen Db=D.b
 nl(Db = -{alpha}*(L.b-{beta1}-beta2}*L.f)+ {delta0}*D.f+{delta1}*D.L.f), variables(L.b L.f D.L.f)
 
