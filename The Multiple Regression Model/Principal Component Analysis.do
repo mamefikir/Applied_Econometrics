@@ -1,4 +1,5 @@
 * Principal Component Analysis 
+* David Li 
 
 * Changing working directory 
 cd "C:\Users\abc\Desktop"
