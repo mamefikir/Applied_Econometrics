@@ -1,5 +1,6 @@
 
 * Regression with Time-Series Data: Stationary Variables
+* David Li
 
 * Durbin Watson test
 
