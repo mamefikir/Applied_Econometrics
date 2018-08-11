@@ -1,4 +1,5 @@
 * Regression with Time-Series Data- Nonstationary Variables
+* David Li 
 
 * Importing Data
 use xxx, clear 
