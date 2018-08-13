@@ -1,6 +1,5 @@
-*David Li 
-
 * Further Inference in the Multiple Regression Model
+* David Li 
 
 * Importing the data 
 use xxx, clear
