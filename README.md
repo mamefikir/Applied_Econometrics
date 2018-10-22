@@ -3,6 +3,7 @@
 ### Using Stata for econometric analysis.
 
 
+
 - Introducing Stata
 - Simple Linear Regression Model 
 - Interval Estimation and Hypothesis Testing 
