@@ -1,7 +1,7 @@
 # Stata_for_Econometrics
 
 ### Recent Pojects
-- Data Analysis with Stata
+- Statistics with STATA
 
 ### Using Stata for econometric analysis.
 
