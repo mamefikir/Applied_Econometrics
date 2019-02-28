@@ -2,6 +2,7 @@
 
 ### Recent Pojects
 - Market Research (STATA)
+- Understanding Political Science Statistics Using Stata 
 - Statistics with STATA
 
 ### Using Stata for econometric analysis.
