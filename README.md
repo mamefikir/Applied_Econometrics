@@ -12,6 +12,7 @@
 - Heteroskedasticity 
 - Regression with Time-Series Data:Stationary Variable 
 - Regression with Time-Series Data:Nonstationary Variable 
+- Time Series - ARIMA Models
 - Panel Data Models 
 - Extra Topics
 
