@@ -1,6 +1,7 @@
 # Stata_for_Econometrics
 
 ### Recent Pojects
+- Market Research 
 - Statistics with STATA
 
 ### Using Stata for econometric analysis.
