@@ -1,9 +1,9 @@
 # Stata_for_Econometrics
 
-### Recent Pojects
-- Market Research (STATA)
-- Understanding Political Science Statistics Using Stata 
-- Statistics with STATA
+### Using MATLAB for econometric analysis
+
+- Econometrics and MATLAB
+
 
 ### Using Stata for econometric analysis.
 
