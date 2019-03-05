@@ -19,5 +19,9 @@
 - Panel Data Models 
 - Extra Topics
 
+### Using SPSS for econometric analysis
+
+
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
