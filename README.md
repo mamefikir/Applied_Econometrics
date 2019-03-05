@@ -1,4 +1,4 @@
-# Stata_for_Econometrics
+# Econometric Modelling 
 
 ### Using MATLAB for econometric analysis
 
