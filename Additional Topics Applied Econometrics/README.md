@@ -1,4 +1,4 @@
-## `Additional_Topics_Applied_Econometrics (SPSS & R)`
+## Additional_Topics_Applied_Econometrics (SPSS & R)
 
 - R_Applied_Econometrics
   - Probit and Logit Models
