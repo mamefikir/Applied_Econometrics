@@ -1,5 +1,8 @@
 # Advanced Applied Econometrics
-
+- Overview_of_Stata
+- STATA_Applied_Econometrics
+- STATA_Code_Samples
+- Additional_Topics_Applied_Econometrics (SPSS & R)
 
 ## `STATA Data Processing`
 
