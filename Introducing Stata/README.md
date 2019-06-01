@@ -23,12 +23,12 @@
 - Stata command syntax
   - Syntax of summarize
   - Learning syntax using the review window
-- 1.10 Saving your work
-- 1.11 Using the data browser
-- 1.12 Using Stata graphics
-- 1.13 Using Stata Do-files
-- 1.14 Creating and managing variables
-- 1.15 Using Stata density functions
-- 1.16 Using and displaying scalars
-- 1.17 A scalar dialog box
-- 1.18 Using factor variables
+- Saving your work
+- Using the data browser
+- Using Stata graphics
+- Using Stata Do-files
+- Creating and managing variables
+- Using Stata density functions
+- Using and displaying scalars
+- A scalar dialog box
+- Using factor variables
