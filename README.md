@@ -62,7 +62,7 @@
 ## `STATA Data Visualization`
 
 ### STATA - One Variable (Continuous & Discrete)
-![alt text](https://github.com/David-SF2290/Advanced_Applied_Econometrics/blob/master/Graph_Doc/ONE%20VARIABLE.JPG)
+![alt text](https://github.com/David-SF2290/Advanced_Applied_Econometrics/blob/master/Graph_Doc/One%20Variable.jpg)
 
 ### STATA - Two Variables (Continuous)
 ![alt text](https://github.com/David-SF2290/Advanced_Applied_Econometrics/blob/master/Graph_Doc/TWO%20CONTINUOUS%20VARIABLES.JPG)
