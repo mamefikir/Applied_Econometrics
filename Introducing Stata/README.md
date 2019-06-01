@@ -1,0 +1,34 @@
+# Introducing Stata
+
+- Starting Stata
+- The opening display
+- Exiting Stata
+- Stata data files for Principles of Econometrics
+  - A working directory
+- Opening Stata data files
+  - The use command
+  - Using the toolbar
+  - Using files on the internet
+  - Locating book files on the internet
+- The variables window
+  - Using the data editor for a single label
+  - Using the data utility for a single label
+  - Using Variables Manager
+- Describing data and obtaining summary statistics
+- The Stata help system
+  - Using keyword search
+  - Using command search
+  - Opening a dialog box
+  - Complete documentation in Stata manuals
+- Stata command syntax
+  - Syntax of summarize
+  - Learning syntax using the review window
+- 1.10 Saving your work
+- 1.11 Using the data browser
+- 1.12 Using Stata graphics
+- 1.13 Using Stata Do-files
+- 1.14 Creating and managing variables
+- 1.15 Using Stata density functions
+- 1.16 Using and displaying scalars
+- 1.17 A scalar dialog box
+- 1.18 Using factor variables
