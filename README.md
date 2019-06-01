@@ -73,7 +73,7 @@
 ![alt text](https://github.com/David-SF2290/Advanced_Applied_Econometrics/blob/master/Graph_Doc/TWO%20CONTINUOUS%20VARIABLES.JPG)
 
 ### STATA - Three Variables 
-![alt text](https://github.com/David-SF2290/Advanced_Applied_Econometrics/blob/master/Graph_Doc/Three.JPG)
+![alt text](https://github.com/David-SF2290/Advanced_Applied_Econometrics/blob/master/Graph_Doc/3.JPG)
 
 ### STATA - Customizing Appearance
 ![alt text](https://github.com/David-SF2290/Advanced_Applied_Econometrics/blob/master/Graph_Doc/Plot1.JPG)
