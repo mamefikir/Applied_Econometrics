@@ -5,7 +5,6 @@
 - Additional_Topics_Applied_Econometrics (SPSS & R)
 <br/>
 
-
 ## `STATA Data Processing`
 
 **Useful Shortcuts** | (STATA)
