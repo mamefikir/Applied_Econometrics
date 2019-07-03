@@ -122,7 +122,7 @@ Stata has three options for repeating commands over lists or values: foreach, fo
 ![alt text](https://github.com/David-SF2290/Advanced_Applied_Econometrics/blob/master/Graph_Doc/Data.JPG)
 
 
-## `STATA_Applied_Econometrics`
+## `STATA Applied Econometrics`
 
 - Introducing Stata 
 - Simple Linear Regression 
@@ -141,7 +141,7 @@ Stata has three options for repeating commands over lists or values: foreach, fo
 - Panel Data Models 
 - Qualitative and Limited Dependent Variable Models
 
-## `STATA_Code_Samples`
+## `STATA Code Samples`
 
 - Count_Data_Models.do
 - Durbin_Watson_Test.do
@@ -166,16 +166,16 @@ Stata has three options for repeating commands over lists or values: foreach, fo
 - The_Multiple_Regression_Model.do
 - Time_Series_ARIMA.do
 
-## `Additional_Topics_Applied_Econometrics (SPSS & R)`
+## `Additional Topics Applied Econometrics (SPSS & R)`
 
-- `R_Applied_Econometrics`
+- `R Applied Econometrics`
   - Probit and Logit Models
 
-- `SPSS_Applied_Econometrics`
+- `SPSS Applied Econometrics`
   - Introducing SPSS
   - Linear Regression Model 
   
-- `STATA_Applied_Econometrics`
+- `STATA Applied Econometrics`
   - Mathematical Tools
   - Probability Concepts
   - Statistical Inference
