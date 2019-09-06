@@ -3,7 +3,6 @@
 - STATA_Applied_Econometrics
 - STATA_Code_Samples
 - Additional_Topics_Applied_Econometrics (SPSS & R)
-<br/>
 
 ## `STATA Data Processing`
 
