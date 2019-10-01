@@ -106,4 +106,3 @@ summarize m_mgarch r, detail
 histogram m_mgarch, normal
 
 log close
-
