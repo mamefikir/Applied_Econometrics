@@ -323,4 +323,3 @@ tabstat bfull4r sefull4r rfull4r msefull4, stat(mean sd)
 
 
 log close
-
