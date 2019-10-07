@@ -458,4 +458,3 @@ gen mse2sls = (b2slsr-1)^2
 tabstat b2slsr se2slsr r2slsr mse2sls, stat(mean sd)
 
 log close
-
