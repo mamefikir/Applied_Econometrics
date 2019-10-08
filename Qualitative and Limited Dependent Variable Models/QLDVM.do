@@ -427,5 +427,3 @@ heckman lwage educ exper, select(lfp=age educ kids mtr) twostep
 heckman lwage educ exper, select(lfp=age educ kids mtr)
 
 log close
-
-
