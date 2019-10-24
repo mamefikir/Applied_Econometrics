@@ -233,8 +233,3 @@ quietly regress coke pratio disp_coke disp_pepsi
 imtest, white
 
 log close
-
-
-
-
-
