@@ -125,4 +125,3 @@ irf graph fevd, name(g2, replace)
 irf table irf fevd, title("Combined IRF/FEVD for C and Y")
 
 log close
-
