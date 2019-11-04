@@ -61,4 +61,3 @@ estat classification
 
 quietly probit $ylist $xlist
 estat classification
-
