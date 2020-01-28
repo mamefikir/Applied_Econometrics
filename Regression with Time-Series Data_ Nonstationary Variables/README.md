@@ -1,4 +1,4 @@
-# Regression with Time-Series Data_ Nonstationary Variables
+# Regression with Time-Series Data Nonstationary Variables
 
 - Stationary and nonstationary data
   - Review: generating dates in Stata
