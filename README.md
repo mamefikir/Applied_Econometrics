@@ -19,7 +19,7 @@ This repository covers a working knowledge of econometric tools so that you can 
 ![alt text](https://github.com/David-SF2290/Applied_Econometrics/blob/master/2.%20Documentation/Plotting%20in%20Stata.JPG)
 
 ### Reference
-- Essam, Tim, and Laura Hughes. “Stata Cheat Sheets.” Stata Bookstore, 2019, www.stata.com/bookstore/statacheatsheets.pdf.
+- Essam, Tim, and Laura Hughes. “Stata Cheat Sheets.” Stata Bookstore, 2019.
 - Hill, R. Carter., et al. Principles of Econometrics. Wiley, 2012.
 
 ### License
