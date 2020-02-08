@@ -299,10 +299,3 @@ title("Difference in Difference Regressions")
 reg fte nj d d_nj if !missing(demp)
 
 log close
-
-
-
-
-
-
-
