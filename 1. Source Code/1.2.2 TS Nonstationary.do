@@ -123,8 +123,3 @@ gen ehat = L.b - _b[beta1:_cons]-_b[beta2:_cons]*L.f
 qui reg D.ehat L.ehat L.D.ehat, noconst
 di _b[L.ehat]/_se[L.ehat]
 log close
-
-
-
-
-
