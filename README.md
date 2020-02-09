@@ -8,7 +8,6 @@ This repository covers a working knowledge of econometric tools so that you can 
   - Data Visualization with Stata
 
 <br />
-<br />
 
 ![alt text](https://github.com/David-SF2290/Applied_Econometrics/blob/master/2.%20Documentation/Stata%20Data%20Analysis.JPG)
 
