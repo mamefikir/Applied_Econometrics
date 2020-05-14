@@ -9,17 +9,17 @@ This repository covers a working knowledge of econometric tools so that you can 
 
 <br />
 
-https://github.com/DavidLiSF/DavidLiSF.GITHUB.IO/issues/6#issue-562248117
+![Stata Data Analysis](https://user-images.githubusercontent.com/41026089/74110989-066cee80-4b5f-11ea-9ac8-83be6288205c.JPG)
 
-https://github.com/DavidLiSF/DavidLiSF.GITHUB.IO/issues/10#issue-562248271
+![Stata Programming](https://user-images.githubusercontent.com/41026089/74111014-31efd900-4b5f-11ea-8df6-325b0ee558aa.JPG)
 
-https://github.com/DavidLiSF/DavidLiSF.GITHUB.IO/issues/7#issue-562248158
+![Stata Data Processing](https://user-images.githubusercontent.com/41026089/74110998-12f14700-4b5f-11ea-95bc-2bf98c2df80e.JPG)
 
-https://github.com/DavidLiSF/DavidLiSF.GITHUB.IO/issues/8#issue-562248195
+![Stata Data Transformation](https://user-images.githubusercontent.com/41026089/74111001-1dabdc00-4b5f-11ea-8336-dd8d89108148.JPG)
 
-https://github.com/DavidLiSF/DavidLiSF.GITHUB.IO/issues/9#issue-562248222
+![Stata Data Visualization](https://user-images.githubusercontent.com/41026089/74111008-27354400-4b5f-11ea-9fa0-cb615c67739e.JPG)
 
-https://github.com/DavidLiSF/DavidLiSF.GITHUB.IO/issues/11#issue-562248323
+![Plotting in Stata](https://user-images.githubusercontent.com/41026089/74111020-459b3f80-4b5f-11ea-8815-5b85156c10eb.JPG)
 
 (To be continued...)
 
