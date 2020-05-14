@@ -1,12 +1,5 @@
 # Advanced Applied Econometrics
 This repository covers a working knowledge of econometric tools so that you can apply these tools to modeling, estimation, inference, and forecasting in the context of real-world economic problems.
-
-  - Data Analysis with Stata
-  - Programming with Stata
-  - Data Processing
-  - Data Transformation With Stata
-  - Data Visualization with Stata
-
 <br />
 
 ![Stata Data Analysis](https://user-images.githubusercontent.com/41026089/74110989-066cee80-4b5f-11ea-9ac8-83be6288205c.JPG)
