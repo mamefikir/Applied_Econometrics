@@ -9,17 +9,17 @@ This repository covers a working knowledge of econometric tools so that you can 
 
 <br />
 
-![alt text](https://github.com/David-SF2290/Applied_Econometrics/blob/master/2.%20Documentation/Stata%20Data%20Analysis.JPG)
+https://github.com/DavidLiSF/DavidLiSF.GITHUB.IO/issues/6#issue-562248117
 
-![alt text](https://github.com/David-SF2290/Applied_Econometrics/blob/master/2.%20Documentation/Stata%20Programming.JPG)
+https://github.com/DavidLiSF/DavidLiSF.GITHUB.IO/issues/10#issue-562248271
 
-![alt text](https://github.com/David-SF2290/Applied_Econometrics/blob/master/2.%20Documentation/Stata%20Data%20Processing.JPG)
+https://github.com/DavidLiSF/DavidLiSF.GITHUB.IO/issues/7#issue-562248158
 
-![alt text](https://github.com/David-SF2290/Applied_Econometrics/blob/master/2.%20Documentation/Stata%20Data%20Transformation.JPG)
+https://github.com/DavidLiSF/DavidLiSF.GITHUB.IO/issues/8#issue-562248195
 
-![alt text](https://github.com/David-SF2290/Applied_Econometrics/blob/master/2.%20Documentation/Stata%20Data%20Visualization.JPG)
+https://github.com/DavidLiSF/DavidLiSF.GITHUB.IO/issues/9#issue-562248222
 
-![alt text](https://github.com/David-SF2290/Applied_Econometrics/blob/master/2.%20Documentation/Plotting%20in%20Stata.JPG)
+https://github.com/DavidLiSF/DavidLiSF.GITHUB.IO/issues/11#issue-562248323
 
 (To be continued...)
 
