@@ -1,5 +1,5 @@
 * The Simple Linear Regression Model
-* David Li
+* Shaofei Li
 
 * setup
 version 15.1
