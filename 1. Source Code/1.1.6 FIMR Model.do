@@ -1,5 +1,5 @@
 * Further Inference in the Multiple Regression Model
-* David Li
+* Shaofei Li
 
 * setup
 version 15.1
