@@ -1,5 +1,5 @@
 * Vector Error Correction and Vector Autoregressive Models
-* David Li
+* Shaofei Li
 
 * setup
 version 15.1
