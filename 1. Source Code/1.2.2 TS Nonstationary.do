@@ -1,5 +1,5 @@
 * Regression with Time-Series Data: Nonstationary Variables
-* David Li
+* Shaofei Li
 
 * setup
 version 15.1
