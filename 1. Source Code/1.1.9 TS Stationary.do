@@ -1,5 +1,5 @@
 * Regression with Time-Series Data: Stationary Variables
-* David Li
+* Shaofei Li
 
 * setup
 version 15.1
