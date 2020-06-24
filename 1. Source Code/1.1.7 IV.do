@@ -1,5 +1,5 @@
 * Using Indicator Variables
-* David Li
+* Shaofei Li
 
 * setup
 version 15.1
