@@ -1,4 +1,3 @@
-
 * Introducing Stata 
 * Shaofei Li
 
