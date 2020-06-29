@@ -1,5 +1,5 @@
 * Time-Varying Volatility and ARCH Models
-* David Li
+* Shaofei Li
 
 * setup
 version 15.1
